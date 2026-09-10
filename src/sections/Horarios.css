@@ -1,0 +1,23 @@
+.horarios {
+  padding: 3rem 1.5rem;
+  background-color: var(--color-bg-alt);
+  text-align: center;
+}
+
+.horarios h2 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 1.5rem;
+}
+
+.horarios-lista {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.horario-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}

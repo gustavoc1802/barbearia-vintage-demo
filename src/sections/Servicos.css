@@ -1,0 +1,23 @@
+.servicos {
+  padding: 3rem 1.5rem;
+  background-color: var(--color-bg-alt);
+  text-align: center;
+}
+
+.servicos h2 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 1.5rem;
+}
+
+.servicos-lista {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.servico-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}

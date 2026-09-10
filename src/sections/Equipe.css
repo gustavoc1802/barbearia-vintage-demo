@@ -1,0 +1,44 @@
+.equipe {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.equipe h2 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 1.5rem;
+}
+
+.equipe-lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.equipe-item {
+  width: 160px;
+}
+
+.equipe-foto-placeholder {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: var(--color-bg-alt);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0.8rem;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.equipe-item h3 {
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+}
+
+.equipe-item p {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}

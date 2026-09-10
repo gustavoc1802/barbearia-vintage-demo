@@ -1,0 +1,17 @@
+.sobre {
+  padding: 3rem 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sobre h2 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 1rem;
+}
+
+.sobre p {
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}

@@ -1,0 +1,31 @@
+.contato {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.contato h2 {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 0.8rem;
+}
+
+.contato p {
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.contato-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+
+.contato-links a {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  font-weight: bold;
+  font-size: 0.9rem;
+}

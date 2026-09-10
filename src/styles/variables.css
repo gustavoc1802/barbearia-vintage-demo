@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #c9a227;
+  --color-secondary: #1a1a1a;
+  --color-bg: #141414;
+  --color-bg-alt: #1f1f1f;
+  --color-text: #f2f2f2;
+  --color-text-muted: #b3b3b3;
+
+  --font-heading: 'Georgia', serif;
+  --font-body: 'Arial', sans-serif;
+
+  --radius: 6px;
+}
