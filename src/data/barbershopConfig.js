@@ -3,9 +3,9 @@
 const barbershopConfig = {
   nome: "Barbearia Black Jack",
   slogan: "Seu estilo, nossa precisão",
-  whatsapp: "849696999",
+  whatsapp: "84987335171",
   whatsappMensagem: "Olá! Gostaria de agendar um horário na Barbearia Black Jack.",
-  instagram: "https://instagram.com/ngbgansin/",
+  instagram: "https://instagram.com/gansinho0/",
   telefone: "(51) 99999-9999",
   endereco: "Rua das 69, 123 - Rio Grande, RS",
   mapsLink: "https://maps.google.com/?q=Rua+das+Tesouras+123+Rio+Grande+RS",
@@ -13,7 +13,7 @@ const barbershopConfig = {
   sobre: {
     titulo: "Nossa história",
     texto:
-      "Há mais de 10 anos oferecendo pika e cortes de qualidade com atendimento personalizado. Combinamos técnicas clássicas de barbearia com um ambiente moderno e confortável.",
+      "Há mais de 10 anos oferecendo  cortes de qualidade com atendimento personalizado. Combinamos técnicas clássicas de barbearia com um ambiente moderno e confortável.",
   },
 
   servicos: [
@@ -24,8 +24,8 @@ const barbershopConfig = {
   ],
 
   equipe: [
-    { nome: "Julio Mogged", especialidade: "Cortes clássicos" },
-    { nome: "Giovanna", especialidade: "Barba e navalha" },
+    { nome: "Julio", especialidade: "Cortes clássicos" },
+    { nome: "Gustavo", especialidade: "Barba e navalha" },
   ],
 
   galeria: [
@@ -36,8 +36,8 @@ const barbershopConfig = {
   ],
 
   depoimentos: [
-    { nome: "Rafael M.", comentario: "Vai tomar no cu Julio porra.", nota: 5 },
-    { nome: "Lucas T.", comentario: "Aiiiin que acerto doutora.", nota: 5 },
+    { nome: "Rafael M.", comentario: "Corte.", nota: 5 },
+    { nome: "Lucas T.", comentario: "Top.", nota: 5 },
   ],
 
   horarios: [
